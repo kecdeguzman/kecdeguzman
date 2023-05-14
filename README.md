@@ -6,7 +6,7 @@ Aspiring Web Developer
 
 *   🌍  I'm based in Davao City, Philippines
 *   ✉️  You can contact me at [kairnic@gmail.com](mailto:kairnic@gmail.com)
-*   🧠  I'm learning Vue Framework
+*   🧠  I'm currently learning React and Django Frameworks
 
 <h1>Skills</h1>
 <p align="left">
